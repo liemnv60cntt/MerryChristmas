@@ -312,7 +312,7 @@ document.querySelector('button').addEventListener('click', function () {
 
 `;
 
-  let timeout = -30;
+  let timeout = -100;
   let n = 0;
 
   function ele(selector) {
